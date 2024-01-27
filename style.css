@@ -1,0 +1,33 @@
+.full{
+    position: relative;
+    margin: 100px;
+    text-align: center;
+    border:  black solid;
+    
+}
+
+.head{
+    text-align: center;
+    border: black solid;
+}
+.container{
+    padding: 70px;
+}
+.btn1{
+    position: relative;
+    left: 250px;
+    width: 150px;
+}
+.image{
+    text-align: center;
+    color: aliceblue;
+    padding: 100px;
+    background-color: black;
+}
+
+
+    
+
+
+
+
